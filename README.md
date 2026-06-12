@@ -15,4 +15,4 @@ Verilog implementation of a Traffic Light Control System using Finite State Mach
 - ModelSim / Vivado
 
 ## Author
-Manasa Mythri
+Manasa Mytri
