@@ -16,3 +16,5 @@ Verilog implementation of a Traffic Light Control System using Finite State Mach
 
 ## Author
 Manasa Mytri
+## Simulation result
+![Waveform](Fsm_waveform.png)
